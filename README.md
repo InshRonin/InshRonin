@@ -1,4 +1,4 @@
-<h3 align="left">👋Hi ! <br>❤️My name is Inshaf <br>😌I'm an Undergraduate in IT from UOM.<br>🚀 Continuously learning, coding, and experimenting <br>🤝 Open to collaborations and exciting opportunities</h3>
+<h3 IT Undergraduate @UOM | Linux Power-User | Design & Dev Learner | Open-Source Enthusiast</h3>
 
 ###
 
