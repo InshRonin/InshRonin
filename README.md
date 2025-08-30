@@ -1,4 +1,4 @@
-<h3 IT Undergraduate @UOM | Linux Power-User | Design & Dev Learner | Open-Source Enthusiast</h3>
+<h3> IT Undergraduate @UOM | Linux Power-User | Design & Dev Learner | Open-Source Enthusiast</h3>
 
 ###
 
